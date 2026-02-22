@@ -1,35 +1,38 @@
+**Last Updated:** February 18, 2026
 # Privacy Policy
 
-Last updated: 2 January 2026
+This privacy policy applies to the **Gaddar Bilgi** mobile application ("the App"). By using the App, you agree to the practices described in this policy.
 
-This privacy policy applies to the mobile game **Gaddar**.
+---
 
-## Information We Collect
-The application does **not collect, store, or share** any personal data.
+## 1. Information We Collect
+Gaddar Bilgi processes certain information to provide and improve the user experience:
 
-The game works **completely offline** and does not require any permissions.
+- **Voice Data:** When you use the "Speak and Mark" (Konuş ve İşaretle) feature, your voice is processed temporarily to be converted into text or commands. These voice recordings are **not stored** on our servers and are only used for instantaneous command processing.
+- **Game Data:** With the server connection feature, your game scores, level progress, and achievements may be stored on our servers using an anonymous identity (ID) unique to your device.
+- **Device Information:** Anonymous technical data such as device model and technical error reports may be collected for the App's stable operation.
 
-## Permissions
-This app does **not request any permissions** such as:
-- Camera
-- Microphone
-- Location
-- Contacts
-- Storage
+## 2. Use of Permissions
+Our application uses the following permissions to ensure its functionality:
 
-## Third-Party Services
-The application does **not use** any third-party services such as:
-- Ads
-- Analytics
-- Login systems
+- **Microphone (RECORD_AUDIO):** To run the "Speak and Mark" feature by detecting the user's voice commands.
+- **Internet (INTERNET) & Network State:** For server synchronization, downloading updated question packs, and displaying global leaderboards.
+- **Vibration (VIBRATE):** For in-game notifications and haptic feedback.
 
-## Children’s Information
-This application does not knowingly collect any personal information from children under the age of 13.
+## 3. Data Retention and Security
+We do not request or collect personal data (such as name, e-mail, phone number). The collected anonymous game data is stored on secure servers and is not shared with third parties. While we prioritize the security of your data, please remember that no method of transmission over the internet is 100% secure.
 
-## Changes to This Privacy Policy
-We may update this Privacy Policy in the future. Any changes will be posted on this page.
+## 4. Third-Party Services
+The App may use Google Play Services or native Android APIs to perform certain tasks like speech recognition. These services have their own privacy policies and may process data according to their own standards.
 
-## Contact Us
-If you have any questions about this Privacy Policy, you can contact us at:
+## 5. Children's Privacy
+The App does not knowingly collect personal information from children under the age of 13. If you become aware that a child has provided us with personal information, please contact us; we will take necessary steps to delete such information immediately.
 
-Email: **gaddarbaba1620@gmail.com**
+## 6. Changes to This Policy
+This Privacy Policy may be updated from time to time. Any changes will be announced on this page by updating the "Last Updated" date.
+
+## 7. Contact Us
+For any questions, comments, or suggestions regarding this Privacy Policy, you can contact us at:
+
+**Email:** gaddarbaba1620@gmail.com  
+**Developer:** Gaddar Bilgi Mobile Team
